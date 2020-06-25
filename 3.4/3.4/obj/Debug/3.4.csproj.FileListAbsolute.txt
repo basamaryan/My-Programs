@@ -1,0 +1,7 @@
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\3.4\3.4\bin\Debug\3.4.exe.config
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\3.4\3.4\bin\Debug\3.4.exe
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\3.4\3.4\bin\Debug\3.4.pdb
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\3.4\3.4\obj\Debug\3.4.csprojAssemblyReference.cache
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\3.4\3.4\obj\Debug\3.4.csproj.CoreCompileInputs.cache
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\3.4\3.4\obj\Debug\3.4.exe
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\3.4\3.4\obj\Debug\3.4.pdb
