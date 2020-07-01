@@ -14,7 +14,7 @@ namespace _2._1
             string wordEntered = (Console.ReadLine());
             Console.Write("Enter the number");
             int numVal = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(wordEntered.Remove(numVal, 1));
+            Console.WriteLine(wordEntered.Remove(numVal -1, 1));
             Console.Read();
 
 
