@@ -10,14 +10,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            /*Console.WriteLine("Enter a new word");
+            Console.WriteLine("Enter a new word");
             string newWord = (Console.ReadLine());
             int length = (newWord.Length);
-            string temp = ("");
-            temp = newWord(0);
-            newWord(0) = newWord(length -1);
-            newWord(length - 1) = temp; */
-            // why does this give an error sir?
+            string start = newWord.Substring(0, 1);
+            string middle = newWord.Substring(1, length - 2);
+            string end = newWord.Substring(length - 1, 1);
+            Console.WriteLine(end + middle + start);
+            Console.ReadLine();
 
 
 
