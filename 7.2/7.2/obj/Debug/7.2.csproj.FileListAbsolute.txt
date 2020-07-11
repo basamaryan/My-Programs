@@ -1,0 +1,7 @@
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\7.2\7.2\bin\Debug\7.2.exe.config
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\7.2\7.2\bin\Debug\7.2.exe
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\7.2\7.2\bin\Debug\7.2.pdb
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\7.2\7.2\obj\Debug\7.2.csprojAssemblyReference.cache
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\7.2\7.2\obj\Debug\7.2.csproj.CoreCompileInputs.cache
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\7.2\7.2\obj\Debug\7.2.exe
+C:\Users\basam\OneDrive - CHIREC INTERNATIONAL SCHOOL\Documents\C# Programs\7.2\7.2\obj\Debug\7.2.pdb
